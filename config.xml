@@ -3,9 +3,9 @@
   xmlns:gap ="http//phonegap.com/ns/1.0"
   id      ="com.phonegap.example10"
   vesionCode="10"
-  vesion   ="1.0.0"
+  vesion   ="1.0.0">
   
-  <!--versionCode is optional and Android only-->
+ 
   
   <name>APP10 Piano </name>
   
